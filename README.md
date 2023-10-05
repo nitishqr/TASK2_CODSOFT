@@ -1,8 +1,8 @@
 ## Movie Rating Prediction
 
-## Author: Hetanshi Acharya
+## Author: Nitish Kumar
 
-## Batch: July
+## Batch: October 2023
 
 ## Domain: Data Science
 
